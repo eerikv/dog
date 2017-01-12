@@ -30,9 +30,9 @@ h1 {
 	animation: woof 1.06s linear infinite;
 }
 @keyframes woof {
-	0% {color:black; transform:translateY(0px); font-size:76px;}
+	0% {color:blue; transform:translateY(0px); font-size:76px;}
 	25% {color:red; font-size:80px;}
-	50% {color:black; transform:translateY(-600px); font-size:76px;}
+	50% {color:blue; transform:translateY(-600px); font-size:76px;}
 	75% {color:red; font-size:80px;}
-	100% {color:black; transform:translateY(0px); font-size:76px;}
+	100% {color:blue; transform:translateY(0px); font-size:76px;}
 }
